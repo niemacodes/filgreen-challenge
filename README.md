@@ -3,8 +3,8 @@ FilGreen Take Home
 
 To run: 
 
-```node question1.js
-node question2.js```
+```node question1.js```
+``` node question2.js```
 
 1: I used JSON RPC request & app.infura.io API to: 
  - Retrieve the chain height using ChainHead. 
