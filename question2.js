@@ -22,8 +22,6 @@ function createRequest(URL){
 }
 
 function getData (sealedDataURL, storedDataURL){
-    
-    console.log("\n✨🚀 =================================== Getting Sealed & Stored Data:  ================================= 🚀✨");
     request(sealedDataURL, function (error, response) {
         if (error) throw new Error(error);
         
