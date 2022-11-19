@@ -2,9 +2,9 @@
 
 To run: 
 
-# ```node question1.js```
+### ```node question1.js```
 
-# ``` node question2.js```
+### ``` node question2.js```
 
 ## Question 1: 
 I used JSON RPC request & app.infura.io API to: 
